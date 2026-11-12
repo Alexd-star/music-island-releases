@@ -1,2 +1,15 @@
-# music-island-releases
-Music Island Android signed installers and in-app update channel
+# 音乐岛屿 Android
+
+这里提供音乐岛屿的 Android 安装包和应用内更新通道，无需连接电脑。
+
+[下载最新版本](https://github.com/Alexd-star/music-island-releases/releases/latest)
+
+首次使用、或从不含在线更新功能的旧版升级，请下载 APK 覆盖安装。包名和签名保持一致时，收藏、播放队列、历史、下载记录与口味数据会保留；请勿先卸载应用。
+
+后续更新可在应用内设置中检查、下载和安装。下载支持暂停与续传；安装前验证文件完整性、版本和应用签名，最后由 Android 系统确认安装。
+
+GitHub 不同地区的下载速度可能不同。下载异常时可以稍后重试，已下载的部分会保留。不要从不明渠道安装不同签名的替代包。
+
+本仓库用于安装包分发，不包含音乐文件、个人数据、签名私钥或应用源码。音源可用性随第三方服务和曲目授权状态变化。
+
+当前安装包属于签名验收版本，具体修改与验证范围见各发行版说明。
