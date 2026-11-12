@@ -9,7 +9,7 @@
     "sha256": "eb27573c63876e44acb4853022fedd52353651683f0c2752cb2165996dbdb77d",
     "urls": [
       "https://api.github.com/repos/Alexd-star/music-island-releases/releases/assets/739808339",
-      "https://github.com/Alexd-star/music-island-releases/releases/download/untagged-e8c58946fde4b889fa99/MusicIsland-Android-v0.3.59-acceptance.apk"
+      "https://github.com/Alexd-star/music-island-releases/releases/download/android-v0.3.59/MusicIsland-Android-v0.3.59-acceptance.apk"
     ],
     "notes": "修复歌手页重复跳转，保留返回时的页面位置与筛选。\n加入软件内更新：后台轻提示、暂停续传、校验后安装。\n独立运行，覆盖升级保留收藏、队列、历史、下载与口味。"
   }
