@@ -2,15 +2,15 @@
   "schemaVersion": 1,
   "android": {
     "packageName": "com.woweigekuang.android",
-    "versionCode": 62,
-    "versionName": "0.3.59",
+    "versionCode": 63,
+    "versionName": "0.3.60",
     "minSdk": 26,
-    "sizeBytes": 3493785,
-    "sha256": "eb27573c63876e44acb4853022fedd52353651683f0c2752cb2165996dbdb77d",
+    "sizeBytes": 3510165,
+    "sha256": "17feda4637b914f023494512adf4f7de850437698c12a3b9390fb0f2a96078d2",
     "urls": [
-      "https://api.github.com/repos/Alexd-star/music-island-releases/releases/assets/739808339",
-      "https://github.com/Alexd-star/music-island-releases/releases/download/android-v0.3.59/MusicIsland-Android-v0.3.59-acceptance.apk"
+      "https://api.github.com/repos/Alexd-star/music-island-releases/releases/assets/741993548",
+      "https://github.com/Alexd-star/music-island-releases/releases/download/android-v0.3.60/MusicIsland-Android-v0.3.60-acceptance.apk"
     ],
-    "notes": "修复歌手页重复跳转，保留返回时的页面位置与筛选。\n加入软件内更新：后台轻提示、暂停续传、校验后安装。\n独立运行，覆盖升级保留收藏、队列、历史、下载与口味。"
+    "notes": "修复首页歌单重复、重启重复开场及相同歌手组合扎堆。\n新批次优先合格未展示歌单，保留候选池、展示历史与游标，晚结果不打乱已操作内容。\n更新主源断流自动续传，按钮及时响应，重启可继续下载。\n覆盖升级保留收藏、播放队列、下载记录与口味。"
   }
 }
