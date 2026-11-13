@@ -8,6 +8,7 @@
     "sizeBytes": 3510165,
     "sha256": "17feda4637b914f023494512adf4f7de850437698c12a3b9390fb0f2a96078d2",
     "urls": [
+      "https://raw.githubusercontent.com/Alexd-star/music-island-releases/7c95aa0eb1db5166e164c0a256b81613b4545367/downloads/android-current.apk",
       "https://api.github.com/repos/Alexd-star/music-island-releases/releases/assets/741993548",
       "https://github.com/Alexd-star/music-island-releases/releases/download/android-v0.3.60/MusicIsland-Android-v0.3.60-acceptance.apk"
     ],
